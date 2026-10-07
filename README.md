@@ -1,6 +1,6 @@
 # UART Transmitter & Receiver in Verilog
 
-![Simulation](https://github.com/<your-username>/<repo-name>/actions/workflows/sim.yml/badge.svg)
+![Simulation](https://github.com/Sukanya705/uart_verilog/actions/workflows/sim.yml/badge.svg)
 ![Language](https://img.shields.io/badge/language-Verilog-blue)
 ![Tool](https://img.shields.io/badge/tool-Xilinx%20Vivado-red)
 ![License](https://img.shields.io/badge/license-MIT-green)
